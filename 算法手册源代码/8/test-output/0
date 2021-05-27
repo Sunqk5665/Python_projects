@@ -1,0 +1,4 @@
+// Red Black Tree
+digraph {
+	11 [label=11 color=BLACK]
+}

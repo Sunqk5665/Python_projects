@@ -1,0 +1,22 @@
+// Red Black Tree
+digraph {
+	11 [label=11 color=BLACK]
+	2 [label=2 color=RED]
+	11 -> 2
+	2 [label=2 color=RED]
+	1 [label=1 color=BLACK]
+	2 -> 1
+	1 [label=1 color=BLACK]
+	7 [label=7 color=BLACK]
+	2 -> 7
+	7 [label=7 color=BLACK]
+	5 [label=5 color=RED]
+	7 -> 5
+	5 [label=5 color=RED]
+	14 [label=14 color=BLACK]
+	11 -> 14
+	14 [label=14 color=BLACK]
+	15 [label=15 color=RED]
+	14 -> 15
+	15 [label=15 color=RED]
+}
